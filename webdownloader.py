@@ -46,7 +46,7 @@ AUDIO_EXTENSIONS = [ 'mp3' ]
 VIDEO_EXTENSIONS = [ 'mp4', 'webm', '3gp', 'mov', 'mkv' ]
 
 try:
-    from file_downloader import download, download_list
+    from filedownloader.file_downloader import download, download_list
 except ImportError:
     print('Dependency Problem:')
     print('Download file_downloader.py in the same folder')
