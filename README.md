@@ -8,7 +8,7 @@ This is particularly useful for course websites like ocw.mit.org etc.
 ###Options:
 
 | Option                                | Explanation           |
-| -------------------------------------:|:--------------------: |
+| :-------------------------------------| :---------------------|
 | **-h, --help**                        | Show this help message and exit |
 | **-e EXT, --extension=EXT**           | Download files with this extension .EXT |
 | **-d FOLDER, --destination=FOLDER**   | Destination FOLDER where files will be saved |
